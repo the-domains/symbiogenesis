@@ -1,0 +1,28 @@
+name: Symbiogenesis
+favicon: null
+layout_spectrum: 0.17535159760154784
+typography_spectrum: 0.9760173780377954
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7377895475365222
+  lightness: 0.6842229878529906
+  saturation: 0.9460777202621102
+  rhythmicContrast: 0.8272717131767422
+purpose: []
